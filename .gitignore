@@ -1,0 +1,22 @@
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
+# --- .NET (MyProApp) ---
+MyProApp/.vs/
+MyProApp/bin/
+MyProApp/obj/
+MyProApp/*.user
+MyProApp/*.suo
+
+# --- Angular (frontend) ---
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.cache/
+frontend/.sass-cache/
+
+# --- ملفات عامة ونظام ---
+.DS_Store
+Thumbs.db
+*.log

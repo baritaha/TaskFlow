@@ -1,0 +1,22 @@
+D:\projects\MyProApp\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\projects\MyProApp\Domain\bin\Debug\net8.0\Domain.dll
+D:\projects\MyProApp\Domain\bin\Debug\net8.0\Domain.pdb
+D:\projects\MyProApp\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MyProApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\projects\MyProApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\projects\MyProApp\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\projects\MyProApp\Domain\obj\Debug\net8.0\Domain.dll
+D:\projects\MyProApp\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\projects\MyProApp\Domain\obj\Debug\net8.0\Domain.pdb
+D:\projects\MyProApp\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\projects\.net angular\MyProApp\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\projects\.net angular\MyProApp\Domain\bin\Debug\net8.0\Domain.dll
+D:\projects\.net angular\MyProApp\Domain\bin\Debug\net8.0\Domain.pdb
+D:\projects\.net angular\MyProApp\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net angular\MyProApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\projects\.net angular\MyProApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\projects\.net angular\MyProApp\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\projects\.net angular\MyProApp\Domain\obj\Debug\net8.0\Domain.dll
+D:\projects\.net angular\MyProApp\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\projects\.net angular\MyProApp\Domain\obj\Debug\net8.0\Domain.pdb
+D:\projects\.net angular\MyProApp\Domain\obj\Debug\net8.0\ref\Domain.dll
